@@ -14,3 +14,6 @@
     > git commit -m "First commit"
 - commit listázása:
     >git log
+- adat megváltoztatás
+    >git config user.name
+    (name, email, password)
